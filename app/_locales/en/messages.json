@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Link",
+    "description": "URLテキストを新規タブで開く"
+  },
+  "appDescription": {
+    "message": "URLテキストを新規タブで開く",
+    "description": "URLテキストを新規タブで開く"
+  }
+}
